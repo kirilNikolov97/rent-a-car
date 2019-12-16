@@ -2,7 +2,7 @@
 /.idea/encodings.xml
 /.idea/misc.xml
 /.idea/vcs.xml
-/.idea/$PRODUCT_WORKSPACE_FILE$
+/.idea/
 
 /config-server/config-server.iml
 /config-server/HELP.md
